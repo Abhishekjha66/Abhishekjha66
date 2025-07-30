@@ -16,6 +16,29 @@
 
 ---
 
+---
+
+### 🚀 Projects
+
+- 💬 [Real-Time Chat App](https://github.com/Abhishekjha66/chat-app)  
+  A live messaging app built using Node.js and Socket.io.
+
+- 📸 [Simple Social Media Feed](https://github.com/Abhishekjha66/social-feed)  
+  Mini social app with posts, likes, and comments.
+
+- 🌐 [Portfolio Website](https://github.com/Abhishekjha66/portfolio)  
+  Personal portfolio to showcase your work and contact info.
+
+- 📱 [Weather App (API-based)](https://github.com/Abhishekjha66/weather-app)  
+  Check real-time weather using OpenWeather API.
+
+- 🧠 [JavaScript Mini Projects](https://github.com/Abhishekjha66/js-mini-projects)  
+  A collection of fun, beginner-level JavaScript projects.
+
+---
+
+
+
 ### 🧰 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
