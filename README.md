@@ -31,3 +31,14 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abhi._.jha66?igsh=amowN3RkYmt3NXFt)
 
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekjha66&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Abhishekjha66&theme=radical&border_radius=5" alt="GitHub Streak" />
+</p>
+
+
