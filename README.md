@@ -41,4 +41,7 @@
   <img src="https://streak-stats.demolab.com?user=Abhishekjha66&theme=radical&border_radius=5" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Abhishek+Jha;Full+Stack+Web+Developer+%7C+Frontend+Focus;Learning+Full+Stack+from+Internshala;JavaScript+%7C+Python+%7C+SQL+%7C+C%2B%2B+%7C+HTML+%7C+CSS;Web+Development+%7C+App+Development;Prodigy+Intern+%7C+CodeAlpha+Alumni" />
+</p>
 
