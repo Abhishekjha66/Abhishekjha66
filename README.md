@@ -9,28 +9,9 @@
 
 ### 🌱 Currently Learning
 
-- React, MongoDB, Full Stack Web Development
-- UI/UX Design Principles
-- Real-world Projects + Team Collaboration
-
-### 🔧 Recent Projects
-
-- 💬 [Real-Time Chat App](https://github.com/Abhishekjha66/chat-app)  
-  Built with Node.js + Socket.io for live messaging.
-
-- 📸 [Simple Social Media Feed](https://github.com/Abhishekjha66/social-feed)  
-  Like, comment, and interact — just like Instagram.
-
-- 🌐 [Portfolio Website](https://github.com/Abhishekjha66/portfolio)  
-  Responsive portfolio with resume, projects, and dark mode.
-
-- 📱 [Weather App](https://github.com/Abhishekjha66/weather-app)  
-  Real-time weather from OpenWeather API.
-
-- 🧠 [JavaScript Mini Projects](https://github.com/Abhishekjha66/js-mini-projects)  
-  Fun small apps using vanilla JavaScript.
-
----
+- React, MongoDB, Full Stack Development.
+- UI/UX Design Principles.
+- Real-world Projects.
 
 ### 💼 Tech Stack
 
