@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">🚀 Final Year CSE & Design Student | Full Stack Developer | TECH Enthusiast</h3>
+<h3 align="center">🚀 Final Year Computer Science & Design Student | Full Stack Developer | TECH Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhishekjha66&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishekjha66" />
