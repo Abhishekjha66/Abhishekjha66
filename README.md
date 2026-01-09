@@ -7,11 +7,11 @@
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Seeking
 
-- React, MongoDB, Full Stack Development.
-- UI/UX Design Principles.
-- Real-world Projects.
+- Job Opportunities.
+- Contract Opportunities.
+- Paid Internships Opportunities.
 
 ### 💼 Tech Stack
 
