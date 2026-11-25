@@ -14,7 +14,7 @@ I'm a 2026 B.Tech Computer Science & Design graduate passionate about building p
 
 - 🎓 B.Tech in Computer Science & Design — Dr. D.Y. Patil Vidyapeeth, Pune
 - 💻 Interested in Software Engineering, Full-Stack Development and Backend Development
-- 🚀 Experienced in developing web applications, REST APIs and data-driven projects
+- 🚀 Experienced in developing web applications, REST APIs, AI-powered applications and data-driven projects
 - 🌱 Continuously learning and improving my technical skills
 - 🎯 Currently seeking my first full-time opportunity as a Software Engineer / Software Developer
 
@@ -37,48 +37,87 @@ I'm a 2026 B.Tech Computer Science & Design graduate passionate about building p
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
 
-**Databases & Data Engineering**
+**AI & Data Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat)
+
+**Databases & Programming**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-
-**Programming & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Store Ratings Platform](https://github.com/Abhishekjha66/store-ratings-fullstack) | Full-stack platform with role-based authentication, store management and rating analytics. | React, NestJS, Prisma, PostgreSQL |
-| [LinkedIn Job Monitor](https://github.com/Abhishekjha66/linkedin-job-monitor) | Personal job-monitoring automation with job filtering, tracking and notifications. | Python, GitHub Actions, Telegram |
-| [Snowflake Medallion ETL Pipeline](https://github.com/Abhishekjha66/Snowflake-Medallion-ETL-Pipeline) | Data transformation pipeline demonstrating Bronze, Silver and Gold architecture using scheduled Snowflake tasks. | Snowflake SQL, ETL |
-| [Portfolio Website](https://abhishekjha66.github.io/PORTFOLIO/) | Personal portfolio showcasing projects, skills and professional background. | HTML, CSS, JavaScript |
+### 1. [PulseBoard — Real-Time Sales Analytics Platform](https://github.com/Abhishekjha66/pulseboard)
+
+[**Live Demo →**](https://abhishekjha66.github.io/pulseboard/)
+
+Real-time sales analytics platform featuring Medallion ETL, machine learning forecasting and a Socket.IO-powered dashboard.
+
+**Technologies:** Python, SQL, Node.js, Socket.IO, ETL, Machine Learning
+
+### 2. [DocuMind RAG — Document Question Answering](https://github.com/Abhishekjha66/documind-rag)
+
+A Streamlit-powered RAG application for querying PDF, DOCX, TXT and Markdown documents using semantic search, LLMs and source citations.
+
+**Technologies:** Python, Streamlit, RAG, Groq, FastEmbed, Semantic Search
+
+### 3. [Store Ratings Platform](https://github.com/Abhishekjha66/store-ratings-fullstack)
+
+[**Live Demo →**](https://store-ratings-fullstack-nine.vercel.app/)
+
+Full-stack application featuring JWT authentication, role-based access control, store management, user management and rating analytics.
+
+**Technologies:** React, NestJS, Prisma, PostgreSQL
+
+### 4. [LinkedIn Job Monitor](https://github.com/Abhishekjha66/linkedin-job-monitor)
+
+Personal job-monitoring automation with job filtering, tracking, persistent history and Telegram notifications.
+
+**Technologies:** Python, GitHub Actions, Telegram Bot, Web Scraping
+
+### 5. [Snowflake Medallion ETL Pipeline](https://github.com/Abhishekjha66/Snowflake-Medallion-ETL-Pipeline)
+
+End-to-end data transformation project demonstrating Bronze, Silver and Gold architecture using Snowflake SQL and scheduled tasks.
+
+**Technologies:** Snowflake SQL, ETL, Medallion Architecture
+
+### 6. [Portfolio Website](https://abhishekjha66.github.io/PORTFOLIO/)
+
+Personal portfolio showcasing my projects, technical skills and professional background.
+
+**Technologies:** HTML, CSS, JavaScript
 
 ---
 
 ## 💼 Internship Experience
 
-- **CodeAlpha** — Full Stack Development Intern  
-  August 2025 – September 2025  
-  Worked with Node.js, Express.js and MongoDB.
+**CodeAlpha — Full Stack Development Intern**  
+August 2025 – September 2025
 
-- **Prodigy InfoTech** — Web Development Intern  
-  July 2024 – August 2024  
-  Gained practical experience in frontend web development.
+- Worked with Node.js, Express.js and MongoDB.
+- Gained practical experience in full-stack application development.
+
+**Prodigy InfoTech — Web Development Intern**  
+July 2024 – August 2024
+
+- Gained practical experience in frontend web development.
+- Worked on web development tasks and implementation.
 
 ---
 
