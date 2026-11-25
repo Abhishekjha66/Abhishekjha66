@@ -73,7 +73,7 @@ Real-time sales analytics platform featuring Medallion ETL, machine learning for
 
 ### 2. [DocuMind RAG — Document Question Answering](https://github.com/Abhishekjha66/documind-rag)
 
-[**🚀 Live Demo →**](https://documind-rag-hijsadj3jxqmrvftajgngp.streamlit.app/)
+[**🚀 Live Demo →**](https://documind-rag-hijsad3jxqmrvtfajjgngp.streamlit.app/)
 
 A Streamlit-powered RAG application for querying PDF, DOCX, TXT and Markdown documents using semantic search, LLMs and source citations.
 
